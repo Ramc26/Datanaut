@@ -1,9 +1,9 @@
 [project]
 name = "datanaut"
-version = "0.1.0"
-description = "Add your description here"
+version = "1.0.0"
+description = "Data exploration shouldn't require a PhD - just curiosity and Datanaut!"
 readme = "README.md"
-requires-python = ">=3.13"
+requires-python = ">=3.13,<3.14"
 dependencies = [
     "altair>=5.5.0",
     "numpy>=2.3.4",
